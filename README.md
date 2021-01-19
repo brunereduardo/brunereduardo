@@ -37,7 +37,7 @@ Let's talk!
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 ![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/ana-souza-dias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
