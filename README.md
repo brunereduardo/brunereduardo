@@ -25,8 +25,8 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - how to Sew, crochet, embroider and knitt; 
  - Something new everyday! 
 
-### :mortar_board: Graduating:
-Science and Technology interdisciplinary bachelor, in UFBA (Federal University of Bahia) with the intend to pursue a Computer Science degree after!
+### :mortar_board: Undergraduate degree
+Bachelor of Science in Computer Engineering, in USP (Univeristy of São Paulo - EESC/ICMC) with emphasis on Data Science!
 
 ## :speech_balloon: And I also...
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
