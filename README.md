@@ -1,4 +1,4 @@
-<h1> Hi! I'm Bruner. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h1>
+<h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
 Badges de contato-> Linkedin , email, medium?
 
