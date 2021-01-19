@@ -1,6 +1,8 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-Badges de contato-> Linkedin , email, medium?
+Badges de contato-> Linkedin , email, medium? [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
@@ -33,7 +35,15 @@ Can help with your open source project, connect you with great tech communities 
 
 Let's talk! 
 
+<br>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/ana-souza-dias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 <!--
 **brunereduardo/brunereduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
