@@ -15,12 +15,13 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  ### :books: Learning:
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
  - how to Sew, crochet, embroider and knitt; 
- - Something new everyday! 
+ - Something new everyday!
+ -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
 
 ### :mortar_board: Undergraduate degree
-Bachelor of Science in Computer Engineering, in USP (Univeristy of São Paulo - EESC/ICMC) with emphasis on Data Science!
+Bachelor of Science in Computer Engineering, in USP (Univeristy of São Paulo - EESC/ICMC) with emphasis on Data Science in 2021!
 
-## :speech_balloon: And I also...
+## :speech_balloon: 🤔 I’m looking for help with.
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
 
 Let's talk! 
