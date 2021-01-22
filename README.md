@@ -16,6 +16,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart: 
  - Something new everyday!
  -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
+ <br></br>
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
