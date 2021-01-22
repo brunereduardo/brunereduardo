@@ -17,7 +17,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 
 ### :bar_chart: working:
 
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android);
  
  ### :books: Learning:
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
@@ -35,7 +35,7 @@ Let's talk!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 <br></br>
-![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/ana-souza-dias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
