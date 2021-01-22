@@ -16,7 +16,6 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart: 
  - Something new everyday!
  -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
- <br></br>
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
@@ -24,7 +23,7 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
-<br></br>
+
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
