@@ -1,8 +1,5 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-- 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
-
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4K9FC7IRiCTcQoJKw/giphy.gif"/>
@@ -28,6 +25,8 @@ Can help with your open source project, connect you with great tech communities 
 
 Let's talk! 
 
+ 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
