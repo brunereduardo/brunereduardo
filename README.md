@@ -1,6 +1,6 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-- 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/bruner-eduardo-augusto-albrecht)
+- 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
