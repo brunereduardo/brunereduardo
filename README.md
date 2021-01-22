@@ -16,10 +16,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart: 
  - Something new everyday!
  -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
- - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
- - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
- - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
- - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+ - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
