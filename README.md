@@ -14,10 +14,6 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
 
 ##  :calendar: I'm currently  ...
-
-### :bar_chart: working:
-
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android);
  
  ### :books: Learning:
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
@@ -52,6 +48,7 @@ Let's talk!
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 <!--
 **brunereduardo/brunereduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
