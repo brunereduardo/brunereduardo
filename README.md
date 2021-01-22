@@ -19,9 +19,9 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
 
 ### :mortar_board: Undergraduate degree
-Bachelor of Science in Computer Engineering, in USP (Univeristy of São Paulo - EESC/ICMC) with emphasis on Data Science in 2021!
+Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
 
-## :speech_balloon: 🤔 I’m looking for help with.
+## :speech_balloon: I’m looking for help with.
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
 
 Let's talk! 
