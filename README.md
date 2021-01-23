@@ -1,6 +1,6 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
+Welcome to my Github! I write codes to learn new approaches to problem-solving, but I learned that the best way to learn is to teach people (especially when they make the same mistakes that I did :sweat_smile:).
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4K9FC7IRiCTcQoJKw/giphy.gif"/>
 
