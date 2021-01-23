@@ -28,7 +28,7 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 ## :speech_balloon: And I also...
 Can help you connect with great tech communities and recommend great materials about data science, machine learnig, neural networks and a lot of programming learning sites! 🎉
 
-Let's talk! 
+<b>Let's talk!</b>
 
  📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
