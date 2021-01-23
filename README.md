@@ -2,7 +2,7 @@
 
 Welcome to my Github! I write codes to learn new approaches to problem-solving, but I learned that the best way to learn is to teach people (especially when they make the same mistakes that I did :sweat_smile:).
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4K9FC7IRiCTcQoJKw/giphy.gif"/>
+<img align="right" alt="GIF" src="https://github.com/brunereduardo/brunereduardo/blob/master/tenor.gif"/>
 
 
 ### :zap: Some fun facts!
