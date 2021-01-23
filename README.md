@@ -12,10 +12,10 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart: 
- - Something new everyday!
- -  Data Science, Data Engineering, Machine Learning, Redes Neurais e muito Coding.
- - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+ - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with some courses, community books and curiosity: heart: 
+ - Something new everyday about data Science, data Engineering, machine learning, neural networks.
+ - I started learning![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) and if you have some tips of advice, it would be great to hear you
+ - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
@@ -25,8 +25,8 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats"  width="325">
 
 
-## :speech_balloon: I’m looking for help with.
-Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
+## :speech_balloon: And I also...
+Can help you connect with great tech communities and recommend great materials about data science, machine learnig, neural networks and a lot of programming learning sites! 🎉
 
 Let's talk! 
 
