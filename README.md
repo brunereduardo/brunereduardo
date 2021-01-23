@@ -25,7 +25,6 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brunereduardo's Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
 
-<img align="right" alt="GIF" src="https://twistedsifter.com/wp-content/uploads/2019/02/be-my-shirkentine-28.gif" width="200" height = "400"/>
 
 ## :speech_balloon: I’m looking for help with.
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
