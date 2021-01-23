@@ -1,14 +1,14 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-Welcome to my Github! I write codes to learn new approaches to problem-solving, but I figured out that the best way to learn is to teach people (especially when they make the same mistakes that I did) :sweat_smile:).
+Welcome to my Github! I write codes to learn new approaches to problem-solving, but I figured out that the best way to learn is to teach people (especially when they make the same mistakes that I did :sweat_smile:).
 
 <img align="right" alt="GIF" src="https://github.com/brunereduardo/brunereduardo/blob/master/tenor.gif"/>
 
 
 ### :zap: Some fun facts!
-- I love Doctor Who, The Umbrella Academy and Star Wars;
- - I'm left handed  :point_left: 
- - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
+- I love the Resident Evil game series, but I not like other horror stuff (yeah I know, sounds weird to me too) :man_shrugging:	
+- In less than 10 years I have lived in 7 different cities :bus:
+- This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
 
 ##  :calendar: I'm currently  ...
  
