@@ -21,6 +21,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
 <br></br>
+<br></br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
 
