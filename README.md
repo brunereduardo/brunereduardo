@@ -1,6 +1,6 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-Welcome to my Github! I write codes to learn new approaches to problem-solving, but I learned that the best way to learn is to teach people (especially when they make the same mistakes that I did :sweat_smile:).
+Welcome to my Github! I write codes to learn new approaches to problem-solving, but I figured out that the best way to learn is to teach people (especially when they make the same mistakes that I did) :sweat_smile:).
 
 <img align="right" alt="GIF" src="https://github.com/brunereduardo/brunereduardo/blob/master/tenor.gif"/>
 
@@ -23,9 +23,9 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 <br></br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brunereduardo's Github Stats">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
 
+<img align="right" alt="GIF" src="https://twistedsifter.com/wp-content/uploads/2019/02/be-my-shirkentine-28.gif" width="200" height = "400"/>
 
 ## :speech_balloon: I’m looking for help with.
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
@@ -34,6 +34,8 @@ Let's talk!
 
  📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
+
+
 
 <!--
 **brunereduardo/brunereduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
