@@ -21,9 +21,10 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2021!
 <br></br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunereduardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brunereduardo's Github Stats">
 
-<img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunereduardo&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="stats">
 
 
 ## :speech_balloon: I’m looking for help with.
