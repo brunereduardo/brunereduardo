@@ -8,7 +8,7 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
 ### :zap: Some fun facts!
 - I love the Resident Evil game series, but I not like other horror stuff (yeah I know, sounds weird to me too) :man_shrugging:	
 - In less than 10 years I have lived in 7 different cities :bus:
-- I can't wait to gather friends for a churrasco ( a Brazilian barbecue) with tereré :brazil:	
+- I can't wait to gather friends for a churrasco ( a Brazilian barbecue) with tereré :mask: :syringe: :checkered_flag:	:beers:	:hugs:	
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
