@@ -12,10 +12,10 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community books and curiosity :heart: 
- - Something new everyday about data science, data engineering, machine learning, neural networks.
+ - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community, books and curiosity :heart: 
+ - Something new everyday about data science and machine learning
  - I started learning  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) and if you have some tips, or advice, it would be great to hear you
- - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+ - Data engineering studies, like: Cloud computing (eg AWS, Azure); SQL e NoSQ; Hadoop and Spark; ETL tools
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2022!
