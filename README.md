@@ -15,7 +15,7 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
  - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community, books and curiosity :heart: 
  - Something new everyday about data science and machine learning
  - I started learning  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) and if you have some tips, or advice, it would be great to hear you
- - Data engineering studies, like: Cloud computing (eg AWS, Azure); SQL e NoSQ; Hadoop and Spark; ETL tools
+ - Data engineering studies, like: Cloud computing (eg AWS, Azure); SQL e NoSQL; Hadoop and Spark; ETL tools
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2022!
