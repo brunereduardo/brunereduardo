@@ -30,8 +30,8 @@ Can help you connect with great tech communities and recommend great materials a
 
 <b>Let's talk!</b>
 
- 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruner-eduardo-augusto-albrecht/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@gmail.com)
+ 📫 How to reach me:<br></br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunereduardo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bruner.albrecht@usp.br)
 
 
 
