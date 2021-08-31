@@ -12,7 +12,7 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community, books and curiosity :heart: 
+ - ![Pyhton](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community, books and curiosity :heart: 
  - Something new everyday about data science and machine learning
  - I started learning  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) and if you have some tips, or advice, it would be great to hear you
  - Data engineering studies, like: Cloud computing (eg AWS, Azure); SQL e NoSQL; Hadoop and Spark; ETL tools
@@ -26,7 +26,7 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 
 
 ## :speech_balloon: And I also...
-Can help you connect with great tech communities and recommend great materials about data science, machine learnig, neural networks and a lot of programming learning sites! 🎉
+I Can help you connect with great tech brazillian communities and recommend great sources about software engineering, data science and machine learnig 🎉
 
 <b>Let's talk!</b>
 
