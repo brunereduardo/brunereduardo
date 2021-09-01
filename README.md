@@ -26,7 +26,7 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 
 
 ## :speech_balloon: And I also...
-I Can help you connect with great tech brazillian communities![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) and recommend great sources about software engineering, data science and machine learnig 🎉
+I Can help you connect with great tech brazillian communities and recommend great sources about software engineering, data science and machine learnig 🎉
 
 <b>Let's talk!</b>
 
