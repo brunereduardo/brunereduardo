@@ -12,10 +12,10 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
- - ![Pyhton](https://img.shields.io/badge/-Python-780723?&logo=python) with some help of courses, community, books and curiosity :heart: 
- - Something new everyday about data science and machine learning
- - I started learning  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) and if you have some tips, or advice, it would be great to hear you
- - Data engineering studies, like: Cloud computing (eg AWS, Azure); SQL e NoSQL; Hadoop and Spark; ETL tools
+ - ![Pyhton](https://img.shields.io/badge/-Python-780723?&logo=python), data science and machine learning to help me with my undergraduate thesis, which is based on file system recommendation :heart: 
+ - As an intern of [Embraer](https://www.linkedin.com/company/embraer/) in Flight Operations Support team, i am working with  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) development (Executive & Defense) and Salesforce(Comercial)
+ - I use [Harusa](https://hasura.io/) as BAAS ( backend as a service) and that includes  [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/), [![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) and some REST API stuff
+ - I contiunous studing is ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) with ![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2022!
@@ -26,7 +26,7 @@ Bachelor of Science in Computer Engineering with emphasis on Data Science, at US
 
 
 ## :speech_balloon: And I also...
-I Can help you connect with great tech brazillian communities and recommend great sources about software engineering, data science and machine learnig 🎉
+I Can help you connect with great tech brazillian communities![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) and recommend great sources about software engineering, data science and machine learnig 🎉
 
 <b>Let's talk!</b>
 
