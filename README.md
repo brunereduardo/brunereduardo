@@ -15,7 +15,6 @@ Welcome to my Github! I write codes to learn new approaches to problem-solving, 
  - ![Pyhton](https://img.shields.io/badge/-Python-780723?&logo=python), data science and machine learning to help me with my undergraduate thesis, which is based on file system recommendation :heart: 
  - As an intern of [Embraer](https://www.linkedin.com/company/embraer/) in Flight Operations Support team, i am working with  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) development (Executive & Defense) and Salesforce(Comercial)
  - I use [Harusa](https://hasura.io/) as BAAS ( backend as a service) and that includes  [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/), [![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) and some REST API stuff
- - I contiunous studing is ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) with ![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
 ### :mortar_board: Undergraduate degree
 Bachelor of Science in Computer Engineering with emphasis on Data Science, at USP (Univeristy of São Paulo - EESC/ICMC)  in 2022!
