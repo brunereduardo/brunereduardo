@@ -1,14 +1,14 @@
 <h1> Hi! I'm Bruner. <img src="https://github.com/brunereduardo/brunereduardo/blob/master/Hi.gif" width="50"></h1>
 
-Welcome to my Github! I write codes to learn new approaches to problem-solving, but I figured out that the best way to learn is to teach someone else (especially when they make the same mistakes that I did :sweat_smile:).
+Welcome to my Github! I write codes to learn new approaches to problem-solving, but I figured out that the best way to learn is to help someone else :nerd_face: .
 
 <img align="right" alt="GIF" src="https://github.com/brunereduardo/brunereduardo/blob/master/tenor.gif"/>
 
 
 ### :zap: Some fun facts!
-- I love the Resident Evil game series, but I not like other horror stuff (yeah I know, sounds weird to me too) :man_shrugging:	
+- I love the Resident Evil game series and The Last of US, but I do not like other horror stuff (yeah I know, sounds weird to me too) :man_shrugging:	
 - In less than 10 years I have lived in 7 different cities :bus:
-- I can't wait to gather friends for a churrasco ( a Brazilian barbecue) with tereré :mask: :syringe: :checkered_flag:	:beers:	:hugs:	
+- Passionate about traveling, from the countryside to the beach, maybe a surfer on vacation time :airplane: :motorway: :surfing_man:	:sunrise:	:beers:
 ##  :calendar: I'm currently  ...
  
  ### :books: Learning:
